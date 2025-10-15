@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Woong's%20Git&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요.🍀</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 끊임 없는 사고를 통해 상황을 판단하여 자신의 것으로 만드는 개발자 지망생입니다. </div> 
     </div>
     <div style="text-align: left;">
