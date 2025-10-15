@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Woong's%20Git&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 끊임 없는 사고를 통해 상황을 판단하여 자신의 것으로 만드는 개발자 지망생입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -17,6 +17,7 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=Supabase&logoColor=white">
           <br/></div>
     </div>
     <div style="text-align: left;">
@@ -25,5 +26,9 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=samataewoong&bg_color=180,000000,&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samataewoong&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
     
