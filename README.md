@@ -39,7 +39,7 @@
      <div>
   <ul>
     <li><b>DailyEnglish</b> : "매일 한 문장씩 영문을 번역하며 공부해보자"</li>
-    <li><b>Development-log</b> : 개발 과정 속의 메모 혹은 일지 작성용 페이지</li>
-    <li><b>Game</b> : 귀여움을 위한 사진 퍼즐 게임</li>
+    <li><b>Development-log</b> : 개발 과정 속의 메모 혹은 일지 작성용 페이지 https://samataewoong.github.io/Development-log</li>
+    <li><b>Game</b> : 귀여움을 위한 사진 퍼즐 게임 https://samataewoong.github.io/game/</li>
   </ul>
 </div>
