@@ -22,9 +22,19 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Development log </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Dev Log </h2> <br> 
     <div style="text-align: left;"> <a href=https://github.com/samataewoong> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://github.com/samataewoong"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2> <br>
+     <div>
+         <p> delivery-moa : "배달공구" 컨셉의 웹페이지 (FE) </p><br>
+         <p> delivery-moa2 FE : "delivery-moa 1의 FE,BE 분리와 기능 추가 리팩토링 버전의 프론트엔드 파트 </p><br>
+         <p> delivery-moa2 BE : "delivery-mo 1의 리팩토링 버전의 백엔드 파트 </p>
+     </div>
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Toy Projects </h2> <br>
+     <div>
+         <p> DailyEnglish : 매일 한 문장씩 영문을 번역하며 공부해보자 </p>
+         <p> Development-log : 개발 과정 속의 메모 혹은 일지 작성용 페이지 </p>
+     </div>
