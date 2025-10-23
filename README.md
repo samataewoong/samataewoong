@@ -22,7 +22,7 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Development log </h2> <br> 
     <div style="text-align: left;"> <a href=https://github.com/samataewoong> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://github.com/samataewoong"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
