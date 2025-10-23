@@ -29,10 +29,12 @@
     </div>
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2> <br>
      <div>
-         <p> delivery-moa : "배달공구" 컨셉의 웹페이지 (FE) </p><br>
-         <p> delivery-moa2 FE : "delivery-moa 1의 FE,BE 분리와 기능 추가 리팩토링 버전의 프론트엔드 파트 </p><br>
-         <p> delivery-moa2 BE : "delivery-mo 1의 리팩토링 버전의 백엔드 파트 </p>
-     </div>
+  <ul>
+    <li><b>delivery-moa</b> : "배달공구" 컨셉의 웹페이지 (FE)</li>
+    <li><b>delivery-moa2 FE</b> : delivery-moa 1의 FE/BE 분리와 기능 추가 리팩토링 버전의 프론트엔드 파트</li>
+    <li><b>delivery-moa2 BE</b> : delivery-moa 1의 리팩토링 버전의 백엔드 파트</li>
+  </ul>
+</div>
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Toy Projects </h2> <br>
      <div>
          <p> DailyEnglish : 매일 한 문장씩 영문을 번역하며 공부해보자 </p>
